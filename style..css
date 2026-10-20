@@ -1,0 +1,101 @@
+  .continer h1 {
+background-color:rgba(58, 60, 21, .365);
+
+
+
+}
+
+
+
+
+
+
+.test img{
+
+width: 15%;
+height: 15%;
+border-radius: 50%;
+}
+
+
+
+
+
+#experience{
+background-color: rgb(215, 222, 250);
+
+
+
+}
+
+.pal{
+
+text-align:center;
+
+
+}
+
+.test{
+
+background-color:wheat;
+
+
+}
+.n_bar{
+
+background-color: #3b988c;
+padding: 20px;
+text-align: center;
+
+}
+a {
+display:inline-block ;
+padding: 20px;
+
+    margin: 0 15px;
+
+.header {
+    background-color: #2b7a78; 
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 8px;
+    width: 90%;
+    margin: 0 15px;
+
+
+}
+
+
+.header h1 {
+    margin: 0;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+
+.header .subtitle {
+    margin: 8px 0 20px 0;
+    font-size: 14px;
+}
+
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    padding: 6px 15px;
+    margin: 0 4px;
+    border: 1px solid white; 
+    border-radius: 15p; 
+    font-size: 13px;
+    display: inline-block;
+}
+
+
+.nav-links a:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+background-color: gold;
+}
+
+
